@@ -9,7 +9,7 @@
 - 🌱 I would like to become more proeficient at algorithms in order to become a strong programmer. I am currently trying to learn C++ and Java, the first to have a 
      compiled language in my tool bag the second because they told me I needed to be a strong Java programmer in order to be able to handle big data with Hadoop.
      I am trying to sharpen my knowledge in linear regression, time series, panel data, R, and Python. I will also like to take a deeper dive in Machine Learning methods, 
-     Monte Carlo simulation, probability, bayesian statistics, and economic dynamics.
+     Monte Carlo simulation, probability, bayesian statistics, stochastic processes, and economic dynamics.
 - 💞️ I’m looking to collaborate on any interesting project in Data Science and Machine Learning.
 - 🎵 I'm a big fan of the Mindscape Podcast, PBS's Spacetime, Progressive Rock, Sci-Fi Novels.
 - 📫 How to reach me ...
