@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rzambrano1. I go by Ric or Ricky.
+- 👋 Hi, I’m @rzambrano1. I go by Ric.
 - 👀 I’m interested in Data Science, Machine Learning, Computational Statistics, Sampling, Big Data, and Econometrics. 
      In the short and medium term I just want to be a full time practicioner of Data Science.
      In the long term I would like to attempt designing a machine learning algorithm that would replace current economic models. The economics standard model
