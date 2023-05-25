@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rzambrano1. I go by Ric.
-- 👀 I’m interested in Data Science, Machine Learning, Computational Statistics, Sampling, Big Data, and Econometrics. 
-     In the short and medium term I just want to be a full-time practitioner of Data Science.
-     In the long term I would like to become a machine learning engineer. I have several areas of interest in which I would like to implement machine learning algorithms: economics, finance, forecast of the behavior of social groups, and industrial predictive maintenance (water treatment, power generation and transmission specifically).
-- 🌱 While I am attempting to get a degree in Machine Learning, I would like to become more proficient at algorithms and learn C++. I have the idea that these will help me  become a stronger programmer and a better suited data scientist. 
-     I am trying to keep sharpening my knowledge of linear regression, time series, panel data, R, and Python. Sometime in the future, I will also like to take a deeper dive into probability theory, stochastic processes, Monte Carlo simulation, linear algebra, optimization and tensor mathematics.
-- 🎵 I'm a big fan of the Mindscape Podcast, PBS's Spacetime, Progressive Rock, Sci-Fi Novels.
+- 👋 Hi, I’m @rzambrano1. I am a data scientist and an econometrician.
+- 👀 I’m interested in Data Science, Machine Learning, Computational Statistics, Sampling Methodology, Big Data, and Econometrics. 
+     In the short term I am looking forward to become a full-time practitioner of Machine Learning.
+     In the long term I would like to participate in interdisciplinary projects involving machine learning applications. I have several areas of interest in which I would like to implement machine learning algorithms: economics, finance, behavior of social groups, simulating human conciousness, and industrial predictive maintenance (i.e. water treatment, power generation, and power transmission). I have either hands-on experience or academic training in these fields. I dream of integrating these areas of knowledge with machine learning.
+- 🌱 Currently I am enrolled in a Machine Learning Master's program. In my free time I like to read about python, mathematics, algorithms, and other technologies, such as R or C++. I believe that cultivating these skills will help me  become a stronger programmer. 
+- 🎵 I'm a big fan of good music (Funk, Acid Jazz, Progressive Rock, etc.); Sci-Fi Novels; and mindblowing Podcasts and YouTube series, such as: Mindscape, PBS's Spacetime, and VSauce. 
 - 📫 How to reach me ...
 
 <!---
