@@ -18,17 +18,17 @@ I am interested in contributing to **open-source projects** and exploring **indu
 
 ---
 
-### 🎧 Brain Food
-* **Music:** 🎸 Funk, Acid Jazz, Progressive Rock, Rock en Español.
+### Brain Food
+* **Music:** 🎸🎧 Funk, Acid Jazz, Progressive Rock, Rock en Español.
 * **Sci-fi:** 👾 Film, Anime, Books, and Podcasts.
 * **Cities:** 🏙️ Interested in urban dynamics and complexity.
 
 ---
 
 ### Featured Projects
-* 🏎️ **[Autonomous Driving Agent](http://tinyurl.com/RLCar-carla):** Trained in CARLA Simulator using Reinforcement Learning.
-* 📈 **[Inflation NLP](https://tinyurl.com/inflationNLP):** Inferring inflation expectations from news articles using LSTM and Doc2Vec.
-* 🎙️ **[Spanish Accent Classifier](http://tinyurl.com/ES-Accents):** Multi-class classifier for audio utterances.
+* **[Autonomous Driving Agent](http://tinyurl.com/RLCar-carla):** Trained in CARLA Simulator using Reinforcement Learning.
+* **[Inflation NLP](https://tinyurl.com/inflationNLP):** Inferring inflation expectations from news articles using LSTM and Doc2Vec.
+* **[Spanish Accent Classifier](http://tinyurl.com/ES-Accents):** Multi-class classifier for audio utterances.
 
 <!---
 rzambrano1/rzambrano1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
