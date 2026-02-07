@@ -1,19 +1,19 @@
-# 👋 Hi, I’m Ric (@rzambrano1)
+# Hi, I’m Ric (@rzambrano1)
 
 I am a **Data Scientist and Statistician** specializing in the intersection of **causal inference, survey methodology, and machine learning.** I bridge the gap between rigorous econometric theory and scalable production code.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Languages:** Python 🐍 (Scikit-Learn, PyTorch, Librosa, Stable Baselines3), R (tidyverse, brms, glmnet), SQL, Bash. 
 * **Learning:** Rust 🦀 and CUDA.
 * **Specialties:** Reinforcement Learning, Survey Methodology, Big Data (PySpark, BigQuery), and NLP.
 
-### 🏗️ Production & Methodology
+### Production & Methodology
 * **Engineering:** Refactoring legacy code for AWS/GCP production environments and building custom Python/R wrappers for automated ML pipelines.
 * **Statistical Methods:** Causal Inference, LASSO/Regularization, Time Series, Bayesian Modeling (MCMC), Sampling, and Survey Methodology.
 
-### 🤝 Interest & Collaboration
+### Interest & Collaboration
 I am interested in contributing to **open-source projects** and exploring **industrial applications for reinforcement learning** and computational statistics.
 
 ---
@@ -25,7 +25,7 @@ I am interested in contributing to **open-source projects** and exploring **indu
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 * 🏎️ **[Autonomous Driving Agent](http://tinyurl.com/RLCar-carla):** Trained in CARLA Simulator using Reinforcement Learning.
 * 📈 **[Inflation NLP](https://tinyurl.com/inflationNLP):** Inferring inflation expectations from news articles using LSTM and Doc2Vec.
 * 🎙️ **[Spanish Accent Classifier](http://tinyurl.com/ES-Accents):** Multi-class classifier for audio utterances.
